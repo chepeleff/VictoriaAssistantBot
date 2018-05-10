@@ -140,6 +140,6 @@ public class RobotVictor extends TelegramLongPollingBot {
     @Override
     public String getBotToken() {
         // TODO: replace to resources
-        return "582320976:AAHQDqqWljd8ICwao615ZNed7NftdrxsCbs";
+        return "582320976:AAHQDqqWljfucKyOU615ZNed7NftdrxsCbs";
     }
 }
